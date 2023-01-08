@@ -1,0 +1,15 @@
+[submodule "src/finance_ai/domain/asset_db"]
+	path = src/finance_ai/domain/asset_db
+	url = https://github.com/ka2hyeon/asset_db.git
+[submodule "src/finance_ai/domain/asset_db/asset_db"]
+	path = src/finance_ai/domain/asset_db/asset_db
+	url = https://github.com/ka2hyeon/asset_db.git
+[submodule "outreach/asset_db"]
+	path = outreach/asset_db
+	url = https://github.com/ka2hyeon/asset_db.git
+[submodule "outreach/StockTransformer"]
+	path = outreach/StockTransformer
+	url = https://github.com/ka2hyeon/StockTransformer.git
+[submodule "src/finance_ai/domain/stock_transformer"]
+	path = src/finance_ai/domain/stock_transformer
+	url = https://github.com/ka2hyeon/stock_transformer.git
